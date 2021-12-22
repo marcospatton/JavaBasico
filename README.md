@@ -13,3 +13,8 @@ O conceito e como declarar char e String<br>
 Como concatenar Strings<br>
 Atalho para criação da main<br>
 Variáveis guardam valores e não referências.<br>
+A sintaxe do while e for<br>
+O operador +=<br>
+O operador ++<br>
+Laços aninhados<br>
+A funcionalidade do break<br>
